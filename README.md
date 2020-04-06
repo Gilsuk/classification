@@ -14,4 +14,4 @@ Jupyterlab, Konlpy, keras, gensim
 
 ## 출력예시
 
-![predicted-output](http://drive.google.com/uc?export=view&id=1ok8dZGHYLl9Nzuaw940YHJUoy7hRZ5c2)
+![predicted](https://user-images.githubusercontent.com/43606714/78527943-2b0cdc00-7819-11ea-8440-d933b393c40f.png)
